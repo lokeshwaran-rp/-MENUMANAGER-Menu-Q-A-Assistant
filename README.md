@@ -241,9 +241,9 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Lokesh Waran**
+**LokeshWaran R P**
 
-B.Tech Information Technology
+BE Computer science
 
 MenuManager Internship Project – Track B
 
